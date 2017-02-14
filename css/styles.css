@@ -89,14 +89,14 @@ footer {
 .contact_icon .contact {
   fill: #39add1;
 }
-.heart:hover,
-.location:hover,
-.contact:hover {
+.icon1:hover .heart,
+.icon2:hover .location,
+.icon3:hover .contact  {
   fill: #00769b;
 }
-.heart_icon:hover,
-.location_icon:hover,
-.contact_icon:hover {
+.icon1:hover .heart_icon,
+.icon2:hover .location_icon,
+.icon3:hover .contact_icon {
   transform: rotate(360deg) scale(1.3);
 }
 .logo_text {
